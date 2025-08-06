@@ -5,7 +5,7 @@
 I'm a ✨Cloud Engineer 👩‍💻☁️✨
 
 - 🌱 I’m currently studying for AWS Sol Arch Professional Certification -renewal-
-- Chack my certifications at https://www.credly.com/users/alondrafma
+- 🎖️ Chack my AWS/Azure/GCP certifications at https://www.credly.com/users/alondrafma
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love 🐧
 
